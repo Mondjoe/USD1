@@ -38,7 +38,7 @@ change the JSON file tokenlist.json, adding such as: (PLEASE DO NOT REMOVE EXISI
     ]
 }
 
-address[Required]: 0x29e37A9338618D9A8c3E82f529364575568726Bb .
+address[Required]: your token address .
 symbol[Required]: your token symbol.
 name[Required]: your token name.
 logoURI[Required]: the logo URI of your token.
