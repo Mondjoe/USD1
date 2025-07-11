@@ -37,3 +37,12 @@ change the JSON file tokenlist.json, adding such as: (PLEASE DO NOT REMOVE EXISI
           }
     ]
 }
+
+address[Required]: 0x29e37A9338618D9A8c3E82f529364575568726Bb .
+symbol[Required]: your token symbol.
+name[Required]: your token name.
+logoURI[Required]: the logo URI of your token.
+homepage[Required]: the home page of your token.
+MarketCapLink[Optional]: the coinmarketcap or coingecko link for your token.
+existingMarkets[Required]: where to trade with your token.
+Submit PR with the changed JSON file.
